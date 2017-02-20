@@ -1,0 +1,1 @@
+-y -c /tmp/tmp.qAPFzxzNN6/febootstrap.repo --disablerepo=* --enablerepo=febootstrap --noplugins --nogpgcheck --installroot=/docker-files/otrs-docker/centos6-image install bash wget yum iputils iproute man vim openssh-server openssh-clients tar gzip
